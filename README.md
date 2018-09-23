@@ -1,2 +1,2 @@
 # monkey
-Interpreter for the Monkey programminh language using Go
+Interpreter for the Monkey programming language using Go
